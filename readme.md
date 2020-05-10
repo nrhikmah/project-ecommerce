@@ -7,19 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-CARA INSTALASI WAJIB DIBACA
-Download Project ini atau Clone
-Letakkan di htdocs untuk yang memakai xampp dan yang lain mengikuti
-Pastikan Laptop/PC anda sudah terinstall Composer
-Buka CMD masuk ke projek anda
-Jalan kan command "composer update" tunggu sampai selesai
-Rename env.example menjadi .env
-Jalan kan command "php artisan key:generate" tunggu sampai selesai
+## CARA INSTALASI WAJIB DIBACA
+1. Download Project ini atau Clone
+2. Letakkan di htdocs untuk yang memakai xampp dan yang lain mengikuti
+3. Pastikan Laptop/PC anda sudah terinstall Composer
+4. Buka CMD masuk ke projek anda
+5. Jalan kan command "composer update" tunggu sampai selesai
+6. Rename env.example menjadi .env
+7. Jalan kan command "php artisan key:generate" tunggu sampai selesai
 Selesai
-DATA PENUNJANG
+
+## DATA PENUNJANG
 https://drive.google.com/open?id=1ZYWjVVdcQAhDSiI76CyBeC1JOzQm9wnD
 
-INFO
+## INFO
 Jika sweet alert bermasalah silahkan bisa diganti dengan : alert()->success('Success Message', 'Optional Title');
 
 

@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## LINK TUTORIAL
+https://www.youtube.com/playlist?list=PLIan8aHxsPj38DaYh-wzogU2pKIH_X2gI
+
 ## CARA INSTALASI WAJIB DIBACA
 1. Download Project ini atau Clone
 2. Letakkan di htdocs untuk yang memakai xampp dan yang lain mengikuti
